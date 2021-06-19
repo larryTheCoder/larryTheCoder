@@ -10,7 +10,7 @@ I am larryTheCoder, 18 years old dude who spent time on making programs and arts
 * TradePlus - Private source code (A plugin that allows you to trade with other players!)
 * [DoxyProtocol](https://github.com/larryTheCoder/DoxyProtocol) - A communication bridge for WaterDogPE with SSL/TLS
 * [DragonSocket](https://github.com/larryTheCoder/DragonSocket) - A communication client for DoxyProtocol with SSL/TLS
-* [libEntitiesX] - Private source code, currently abandoned
+* libEntitiesX - Private source code, currently abandoned
 
 ### How to reach me?
 Feel free to contact me thru discord! My discord tag is MrPotato101#0060 or just get into NetherGamesMC discord server and message me
