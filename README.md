@@ -1,20 +1,19 @@
-## Hello there :)
+## Greetings, it's great to meet you :D
+My name is larryTheCoder, and I'm a 19-year-old software and arts enthusiast. I've devoted a lot of my time to creating projects that primarily use C++, PHP, and Java languages. Currently, I'm proud to serve as a Software Developer and Senior Infrastructure Developer for [NetherGamesMC](https://www.github.com/NetherGamesMC), a company that I believe in.
 
-I am larryTheCoder, 18 years old dude who spent time on making programs and arts. I have been working on a few projects which is based on C++, PHP and Java.
-
-### Projects I have worked on:
-* [ext-noise](https://github.com/NetherGamesMC/extnoise) ✨
+### Here are a few examples of projects I've worked on in the past:
+* [VanillaGenerator](https://github.com/NetherGamesMC/ext-vanillagenerator) - Minecraft vanilla world generator written in C/C++✨
 * [SkyWarsForPE](https://github.com/larryTheCoder/SkyWarsForPE)
 * [ASkyBlock](https://github.com/larryTheCoder/ASkyBlock)
 * PotatoBot - Private source code
 * TradePlus - Private source code (A plugin that allows you to trade with other players!)
+* Observer - MongoDB based punishment and game tracking microservices written in Java.
 * [DoxyProtocol](https://github.com/larryTheCoder/DoxyProtocol) - A communication bridge for WaterDogPE with SSL/TLS
 * [DragonSocket](https://github.com/larryTheCoder/DragonSocket) - A communication client for DoxyProtocol with SSL/TLS
-* libEntitiesX - Private source code, currently abandoned
+* libEntitiesX - Private source code, currently abandoned.
 
-### How to reach me?
-Feel free to contact me thru discord! My discord tag is MrPotato101#0060 or just get into NetherGamesMC discord server and message me
-from there.
+### How to contact me?
+If you'd like to get in touch with me, there are a few ways to do so. You can reach me through Discord by adding MrPotato101#0060 to your friend list. I check my email regularly and welcome any business-related inquiries that you may have.
 
 <!--
 Well like you know, this is an internet, everyone knows who you really are, so it is quite useless to have this thing removed so let them see it themselves lol.
