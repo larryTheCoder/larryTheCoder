@@ -1,5 +1,5 @@
 ## Greetings, it's great to meet you :D
-My name is larryTheCoder, and I'm a 19-year-old software and arts enthusiast. I've devoted a lot of my time to creating projects that primarily use C++, PHP, and Java languages. Currently, I'm proud to serve as a Software Developer and Senior Infrastructure Developer for [NetherGamesMC](https://www.github.com/NetherGamesMC), a company that I believe in.
+My name is larryTheCoder, and I'm a 21-year-old software and arts enthusiast. I've devoted a lot of my time to creating projects that primarily use C++, PHP, and Java languages. I am formerly a Software Developer and Senior Infrastructure Developer for [NetherGamesMC](https://www.github.com/NetherGamesMC)
 
 ### Here are a few examples of projects I've worked on in the past:
 * [VanillaGenerator](https://github.com/NetherGamesMC/ext-vanillagenerator) - Minecraft vanilla world generator written in C/C++✨
