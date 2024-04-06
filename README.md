@@ -13,8 +13,33 @@ My name is larryTheCoder, and I'm a 21-year-old software and arts enthusiast. I'
 * libEntitiesX - Private source code, currently abandoned.
 
 ### How to contact me?
-If you'd like to get in touch with me, there are a few ways to do so. You can reach me through Discord by adding MrPotato101#0060 to your friend list. I check my email regularly and welcome any business-related inquiries that you may have.
+If you'd like to get in touch with me, there are a few ways to do so. You can reach me through Discord by adding mrpotato101 to your friend list. I check my email regularly and welcome any business-related inquiries that you may have.
 
+### PGP public key block
+To verify my identity over the internet, the following public key can be used to encrypt any text or file, only I can decrypt its content. The public key is published to the [ubuntu keyserver](https://keyserver.ubuntu.com/pks/lookup?search=5B9BD8B0AC997C79&fingerprint=on&op=index). The Key-ID for the public key block is `0x5B9BD8B0AC997C79`
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEZgZD6BYJKwYBBAHaRw8BAQdAsRBIaUo24nHCVVNYL8f4jmSF0koqyi+5cDHy
+1HdJGcy0JkFtaXIgTXVhenphbSA8bGFycnlQZXRlcjEzMkBnbWFpbC5jb20+iJME
+ExYKADsCGwMFCwkIBwICIgIGFQoJCAsCBBYCAwECHgcCF4AWIQTOXymTzlhT311J
+EQtbm9iwrJl8eQUCZgfC6gAKCRBbm9iwrJl8eTveAQDlWhxU0oO08J9BHEhFo+lf
+mdKTV/qsx6HwSeO+JlS+JAEA9QQaM+JyxM0YMbGhIHrKUdM9hiejg7OJkCa+Ypwc
+sAyIkwQTFgoAOxYhBM5fKZPOWFPfXUkRC1ub2LCsmXx5BQJmBkPoAhsDBQsJCAcC
+AiICBhUKCQgLAgQWAgMBAh4HAheAAAoJEFub2LCsmXx5D/gBALWt1+vNnelbvAuf
+XZehekesVVzr5dAV2DGqLIegq6wLAQCEsLJawAZpTBhoxAy22HyDSypk/b2HXstU
+fl8slCmKDbg4BGYGQ+gSCisGAQQBl1UBBQEBB0CzSa6JyfNgduW3iHp39GwCy0cK
+y2nRjGMS6kKhYB92HwMBCAeIeAQYFgoAIAIbDBYhBM5fKZPOWFPfXUkRC1ub2LCs
+mXx5BQJmB8LrAAoJEFub2LCsmXx5ZUYA/3QlcH+AipP3p3pUrausAWRuZ+A1lTOd
+s2uP3yISIvG/AQDJBA9q6GuyDM2uajsOmcld8rdS1yqoOyd0KvfcvIK/AbgzBGYG
+Q+gWCSsGAQQB2kcPAQEHQEyKlliXB0b4CS5h1TWqQfxHSBkFJ8PvH2RBRQj8iDkJ
+iHgEGBYKACAWIQTOXymTzlhT311JEQtbm9iwrJl8eQUCZgZD6AIbIAAKCRBbm9iw
+rJl8eZ64AQDz+WwszfguhJBG22FerllOJc9D/0Evz7QOUGC9HDyZigD/aigroL0W
+yl9kvv16yepE8Pk1dHxYGrMWiCPO+tsilAI=
+=TShO
+-----END PGP PUBLIC KEY BLOCK-----
+```
 <!--
 Well like you know, this is an internet, everyone knows who you really are, so it is quite useless to have this thing removed so let them see it themselves lol.
 
